@@ -1,15 +1,17 @@
 # quiz_app
+![images](assets/ss2.jpeg)
+![images](assets/ss3.jpeg)
+![images](assets/ss4.jpeg)
+![images](assets/ss5.jpeg)
+![images](assets/ss6.jpeg)
+![images](assets/ss7.jpeg)
 
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss2.jpeg" alt="Screenshot 1" width="300" height="500">
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss3.jpeg" alt="Screenshot 2" width="300" height="500">
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss4.jpeg" alt="Screenshot 3" width="300" height="500">
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss5.jpeg" alt="Screenshot 4" width="300" height="500">
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss6.jpeg" alt="Screenshot 5" width="300" height="500">
-<img src="https://raw.githubusercontent.com/jannat93/CODSOFT_quiz_app/main/assets/ss7.jpeg" alt="Screenshot 6" width="300" height="500">
 
 A new Flutter project.
 
+
 ## Getting Started
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
