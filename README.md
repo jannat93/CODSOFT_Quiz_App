@@ -1,5 +1,10 @@
 # quiz_app
 ![images](assets/ss2.jpeg)
+![images](assets/ss3.jpeg)
+![images](assets/ss4.jpeg)
+![images](assets/ss5.jpeg)
+![images](assets/ss6.jpeg)
+![images](assets/ss7.jpeg)
 
 A new Flutter project.
 
